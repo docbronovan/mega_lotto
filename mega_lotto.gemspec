@@ -6,11 +6,11 @@ require 'mega_lotto/version'
 Gem::Specification.new do |spec|
   spec.name          = "mega_lotto"
   spec.version       = MegaLotto::VERSION
-  spec.authors       = ["Brandon Hilkert"]
-  spec.email         = ["brandonhilkert@gmail.com"]
+  spec.authors       = ["Brock Donovan"]
+  spec.email         = ["brockdonovan@gmail.com"]
   spec.description   = %q{This is an example gem from a tutorial.}
   spec.summary       = %q{random lotto number generator}
-  spec.homepage      = ""
+  spec.homepage      = "http://www.brockdonovan.com"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
