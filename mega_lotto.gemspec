@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = MegaLotto::VERSION
   spec.authors       = ["Brandon Hilkert"]
   spec.email         = ["brandonhilkert@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{This is an example gem from a tutorial.}
+  spec.summary       = %q{random lotto number generator}
   spec.homepage      = ""
   spec.license       = "MIT"
 
